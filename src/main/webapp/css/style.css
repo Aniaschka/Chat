@@ -1,0 +1,42 @@
+<body{}
+Button{
+ position: absolute;
+ left:15%;
+ top: 75%;
+ color: red;
+}
+Server{
+  position: absolute;
+  right: 12%;
+  background-color: #8DF1F5;
+}
+
+#block2 {
+    overflow-y: auto;
+    white-space: nowrap; 
+    background-color: #8DF1F5;
+    position: fixed;
+    width:850px;
+    height: 50%;
+    top: 15%;
+    left: 15%;
+}
+#block3{
+background: #7FFF00;
+position:absolute;
+top: 30px;
+left: 1200px;
+border:3px solid #85A0C9;
+border-radius: 30px;
+-webkit-border-radius: 90px;
+-moz-border-radius: 90px;
+	}
+#Text{
+  position: absolute;
+  width:850px;
+  top:65%;
+  left: 15%;
+
+}
+
+
