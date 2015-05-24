@@ -4,4 +4,12 @@
 
 <web-app>
   <display-name>Archetype Created Web Application</display-name>
+    <servlet>
+        <servlet-name>Message</servlet-name>
+        <servlet-class>chat.Message</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>JSONServlet</servlet-name>
+        <servlet-class>chat.JSONServlet</servlet-class>
+    </servlet>
 </web-app>
